@@ -1,41 +1,39 @@
 '0103g0vdathon ':
-  info_check: true
   month: 1
   title: 在開源社群改造社會-2018 年 g0v 公民科技創新獎助金提案說明工作坊
-  start: '2018-01-02T16:00:00.000Z'
-  end: ''
-  contributor_id: []
+  start: 2018/01/02
+  end: null
+  contributor_id: null
   description: >-
     為鼓勵更多優秀人才投入公民科技領域、加速孵化更多成果，我們向國內外各大具社會影響力之媒體、科技產業募集「公民科技創新獎助金」，並從 g0v
     零時政府揪松團設計一套參與、評選機制，來獎助具潛力且有助公共利益的專案，投入原型開發或維護營運。
   cover: /p/2018/g0v/20180103g0vdathon.png
   link_tl1: 活動網站
   link1: 'https://g0v-jothon.kktix.cc/events/grant-apply-worksh0p-moz'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - g0vdathon
   location: 摩茲工寮 Mozilla Space
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0113g0vdathon:
-  info_check: true
   month: 1
   title: g0v hackath28n | 台灣零時政府第貳拾捌次高牆功德黑客松
-  start: '2018-01-12T16:00:00.000Z'
-  end: ''
-  contributor_id: []
+  start: 2018/01/12
+  end: null
+  contributor_id: null
   description: "台灣零時政府 g0v.tw\_雙月大黑客松: 不只寫程式改造社會，還要有菩薩心會許願蓋高牆做功德。不要問為什麼沒有人做功德，先承認你就是沒有人！來吧！來提新專案、來做舊專案、來認識新朋友！拓展開源、開幹、開花的公民行動精神。"
   cover: /p/2018/g0v/20180113g0vdathon.jpg
   link_tl1: 活動網站
@@ -45,25 +43,24 @@
   project_id:
     - g0vdathon
   location: 中央研究院資訊科學所
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0223cctw:
-  info_check: true
   month: 2
   title: '創用 CC 小聚 #1'
-  start: '2018-02-22T16:00:00.000Z'
-  end: ''
+  start: 2018/02/22
+  end: null
   contributor_id:
     - rock
     - lucien
@@ -75,31 +72,30 @@
   cover: /p/2018/cctw/cctw.png
   link_tl1: 活動網站
   link1: 'https://ocftw.kktix.cc/events/meetforcreativecommons1'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - cctw
   location: |
     開放文化基金會辦公室
   attendance: 8
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0224python:
-  info_check: true
   month: 2
   title: '[高雄 Python 學院] Python 基礎及應用        '
-  start: '2018-02-23T16:00:00.000Z'
-  end: ''
+  start: 2018/02/23
+  end: null
   contributor_id:
     - rock
   description: >-
@@ -108,30 +104,29 @@
   cover: ' /p/2018/pycourse/pycourse-Kaohsiung .png'
   link_tl1: 活動網站
   link1: 'https://pycourse.kktix.cc/events/kaohsiungpy20180224'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - pycourse
   location: 社團法人高雄市企業管理交流協會
   attendance: 19
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0226intl:
-  info_check: true
   month: 2
   title: 'NGO 的資安討論小聚 #6'
-  start: '2018-02-25T16:00:00.000Z'
-  end: ''
+  start: 2018/02/25
+  end: null
   contributor_id:
     - pellaeon
   description: >-
@@ -150,60 +145,29 @@
   cover: non
   link_tl1: 活動網站
   link1: 'https://ocftw.kktix.cc/events/ngo-infosec-6'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - intl
   location: 開放文化基金會辦公室
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0303g0vdathon:
-  info_check: false
-  month: 3
-  title: g0v hackath29n | 台灣零時政府第貳拾玖次開放資料黑客松
-  start: '2018-03-02T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: |-
-    鄧東波／Open Data 聯盟副會長
-    主題：邁向鏈結開放資料之智慧服務Towards Linked Open Data for Intelligent Services
-  cover: /p/2018/g0v/20180303g0vdathon.png_large.jpg
-  link_tl1: 活動網站
-  link1: 'https://g0v-jothon.kktix.cc/events/g0v-hackath29n'
-  link_tl2: ''
-  link2: ''
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0310sitcon:
-  info_check: true
   month: 3
   title: 學生計算機年會 SITCON 2018
-  start: '2018-03-09T16:00:00.000Z'
-  end: ''
+  start: 2018/03/09
+  end: null
   contributor_id:
     - huangfu
   description: >-
@@ -212,30 +176,29 @@
   cover: /p/2018/sitcon/2018sitcon.png
   link_tl1: 活動網站
   link1: 'https://sitcon.org/2018/#/'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - sitcon
   location: 中央研究院人文社會科學館
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0317ocf:
-  info_check: true
   month: 3
   title: OCF 2018 烤山豬春酒聚
-  start: '2018-03-16T16:00:00.000Z'
-  end: ''
+  start: 2018/03/16
+  end: null
   contributor_id:
     - singing
     - rock
@@ -262,30 +225,29 @@
   cover: /p/2018/admin/2018spring party.jpg
   link_tl1: 活動網站
   link1: 'https://ocf.neticrm.tw/civicrm/event/info?reset=1&id=9'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - admin
   location: 竹圍工作室
   attendance: 180
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0324python:
-  info_check: true
   month: 3
   title: '[高雄 Python 學院] Python 基礎及應用工作坊'
-  start: '2018-03-23T16:00:00.000Z'
-  end: ''
+  start: 2018/03/23
+  end: null
   contributor_id:
     - rock
   description: >-
@@ -298,30 +260,29 @@
   cover: ' /p/2018/pycourse/pycourse-Kaohsiung .png'
   link_tl1: 活動網站
   link1: 'https://pycourse.kktix.cc/events/kaohsiungpy20180224-copy-1'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - pycourse
   location: 社團法人高雄市企業管理交流協會
   attendance: 13
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0413cctw:
-  info_check: true
   month: 4
   title: 2018 CC Global Summit
-  start: '2018-04-12T16:00:00.000Z'
-  end: '2018-04-14T16:00:00.000Z'
+  start: 2018/04/12
+  end: 2018/04/14
   contributor_id:
     - lucien
     - 林懿萱
@@ -330,97 +291,29 @@
   link_tl1: 活動網站
   link1: >-
     https://ccglobalsummit2018.sched.com/event/E6ty/how-can-glam-institutions-involve-themselves-in-copyright-reform-discussions
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - cctw
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0414g0vdathon:
-  info_check: false
-  month: 4
-  title: g0v 復活節第拾次基礎建設松
-  start: '2018-04-13T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: >-
-    g0v 社群號稱「人、坑、松」組成，但實際上常有混亂分散的問題。如何讓參與者容易串連協作，需要更多好用的工具與平台。揪松團於 2016
-    年重啟社群基礎建設計畫，揪碼農筆農一起耕耘，打造多中心的協作生態。希望透過常態經營基礎建設專案，讓公民黑客線上線下的連結及參與，在黑客松之外能夠更續航。
-
-
-    這次又多了 g0v 機器大使、g0v 辦松工具包之類的專案，想要促進人坑松的交流，一起來入坑吧！
-  cover: /p/2018/g0v/20180414g0vdathon.jpg
-  link_tl1: 活動網站
-  link1: 'https://g0v-jothon.kktix.cc/events/infrath10n'
-  link_tl2: ''
-  link2: ''
-  project_id:
-    - g0vdathon
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0421intl:
-  info_check: false
-  month: 4
-  title: 法國&臺灣開放資料座談 FR-TW Open Data Forum
-  start: '2018-04-20T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: >-
-    法國是如何推動智慧城市? 並且推動全面的數位化變革? 在數位化的過程中，地方政府如何因應? 又如何影響民主制度?
-
-
-    由法國在台協會和開放文化基金會共同舉辦，邀請四位法國/台灣講者，從政務官角度及學者角度切入，聊聊兩國地方政府推動及使用開放資料的經驗、案例分享，也聊聊民間使用開放資料的實質回饋。
-  cover: /p/2018/intl/0421intl-frenchopendata.jpg
-  link_tl1: 活動網站
-  link1: 'https://ocftw.kktix.cc/events/frtwopendata'
-  link_tl2: ''
-  link2: ''
-  project_id:
-    - intl
-  location: 臺大醫院國際會議中心 402A
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0424intl:
-  info_check: true
   month: 4
   title: 'NGO 的資安討論小聚 #7 - 我在臉書的個資怎麼了？'
-  start: '2018-04-23T16:00:00.000Z'
-  end: ''
+  start: 2018/04/23
+  end: null
   contributor_id:
     - pellaeon
     - lilin
@@ -444,60 +337,27 @@
     - intl
   location: 婦女新知基金會辦公室
   attendance: 17
-  title_en: ''
-  label: ''
+  title_en: null
+  label: null
   organizer_id:
     - |-
       admin
       婦女新知基金會
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0426intl:
-  info_check: false
-  month: 4
-  title: |-
-    Personal Democracy Forum Central and Eastern Europe(PDFCEE)
-    個人民主論壇 PDF 2018
-  start: '2018-04-25T16:00:00.000Z'
-  end: '2018-04-26T16:00:00.000Z'
-  contributor_id:
-    - ttcat
-  description: 個人民主論壇在2004年由波蘭開始
-  cover: /p/2018/g0v/20180602ocfandg0v.jpg
-  link_tl1: 活動網站
-  link1: 'https://pdfcee.pl/en/'
-  link_tl2: 相關報導
-  link2: >-
-    https://g0v.news/%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%E8%88%87%E8%8F%AF%E6%B2%99%E7%9A%84%E8%9B%BB%E8%AE%8A-%E8%A7%80%E5%85%89%E5%9E%83%E5%9C%BE-%E7%A9%BA%E6%B1%99-%E9%BB%91%E5%BF%83%E9%83%BD%E6%9B%B4-%E5%B0%8F%E5%B8%82%E6%B0%91%E7%94%A8%E7%A7%91%E6%8A%80%E8%A7%A3%E6%B1%BA-%E5%9F%8E%E5%B8%82%E4%B9%8B%E7%97%9B-7b8ae3500d96
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0505g0vdathon:
-  info_check: true
   month: 5
   title: 台灣零時政府 g0v.tw 雙月大黑客松
-  start: '2018-05-04T16:00:00.000Z'
-  end: ''
-  contributor_id: []
+  start: 2018/05/04
+  end: null
+  contributor_id: null
   description: >-
     本次 g0v 大黑客松將於 5/5
     舉辦，歡迎公民、鄉民、憤青、開發者、設計者、社會運動工作者、公務員、法律專家、文字工作者、插畫家與媒體工作者等諸眾，帶著熱血來盡一己之力，開源協作參與社會。
@@ -508,26 +368,25 @@
   link2: 'https://beta.hackfoldr.org/g0v-hackath30n/'
   project_id:
     - g0vdathon
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0516rightscon:
-  info_check: true
   month: 5
   title: RightsCon Summit Series
-  start: '2018-05-15T16:00:00.000Z'
-  end: '2018-05-17T16:00:00.000Z'
+  start: 2018/05/15
+  end: 2018/05/17
   contributor_id:
     - pellaeon
     - lilin
@@ -551,53 +410,23 @@
     - intl
   location: Toronto
   attendance: 2500
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0530intl:
-  info_check: false
-  month: 5
-  title: Code for America Summit
-  start: '2018-05-29T16:00:00.000Z'
-  end: '2018-05-31T16:00:00.000Z'
-  contributor_id: []
-  description: ''
-  cover: ''
-  link_tl1: 活動網站
-  link1: >-
-    http://www.cvent.com/events/code-for-america-summit-2018/event-summary-e12d85b157b94d69b80d8911cc641d36.aspx
-  link_tl2: ''
-  link2: ''
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0601pycon:
-  info_check: true
   month: 6
   title: 2018 PyCon Taiwan
-  start: '2018-05-31T16:00:00.000Z'
-  end: '2018-06-01T16:00:00.000Z'
+  start: 2018/05/31
+  end: 2018/06/01
   contributor_id:
     - rock
     - huangfu
@@ -609,87 +438,29 @@
   cover: /p/2018/pycon/og.png
   link_tl1: 活動網站
   link1: 'https://tw.pycon.org/2018/zh-hant/'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - pycon
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0602admin:
-  info_check: false
-  month: 6
-  title: '科技可能中立嗎？科技與政治的協作與角力 '
-  start: '2018-06-01T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: ''
-  cover: /p/2018/g0v/20180602ocfandg0v.jpg
-  link_tl1: 活動直播
-  link1: 'https://www.facebook.com/CafePhiloAtBayArea/videos/414170015724469/'
-  link_tl2: ''
-  link2: ''
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-0607intl:
-  info_check: false
-  month: 6
-  title: 'Personal Democracy Forum 2018: How We Make Good'
-  start: '2018-06-01T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: ''
-  cover: ''
-  link_tl1: 活動網站
-  link1: 'https://www.pdf-18.com/'
-  link_tl2: ''
-  link2: ''
-  project_id:
-    - intl
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0613clsi:
-  info_check: true
   month: 6
   title: Citizen Lab Summer Institute on Monitoring Internet Openness and Rights
-  start: '2018-06-12T16:00:00.000Z'
-  end: '2018-06-14T16:00:00.000Z'
+  start: 2018/06/12
+  end: 2018/06/14
   contributor_id:
     - pellaeon
   description: >-
@@ -710,30 +481,29 @@
   cover: non
   link_tl1: 活動網站
   link1: 'https://citizenlab.ca/summerinstitute/2018.html'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - intl
   location: Toronto
   attendance: 70
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0626intl:
-  info_check: true
   month: 6
   title: East Asia Combating Disinformation Workshop
-  start: '2018-06-25T16:00:00.000Z'
-  end: '2018-06-27T16:00:00.000Z'
+  start: 2018/06/25
+  end: 2018/06/27
   contributor_id:
     - ttcat
     - lulu
@@ -758,31 +528,30 @@
 
     ● Networking
   cover: p/2018/intl/0626intl.JPG
-  link_tl1: ''
-  link1: ''
-  link_tl2: ''
-  link2: ''
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  link_tl1: null
+  link1: null
+  link_tl2: null
+  link2: null
+  project_id: null
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0629intl:
-  info_check: true
   month: 6
   title: 2018 多倫多 RightsCon 數位人權大會分享會
-  start: '2018-06-28T16:00:00.000Z'
-  end: ''
+  start: 2018/06/28
+  end: null
   contributor_id:
     - pellaeon
     - lilin
@@ -808,24 +577,23 @@
     - intl
   location: 慕哲咖啡
   attendance: 68
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 '0630cctw  ':
-  info_check: true
   month: 6
   title: CC TW Chapter 第一次會議
-  start: '2018-06-29T16:00:00.000Z'
-  end: ''
+  start: 2018/06/29
+  end: null
   contributor_id:
     - rock
     - pofeng
@@ -855,55 +623,25 @@
   link2: 'https://cc.ocf.tw/cc-taiwan-chapter/chapter-meeting-20180630'
   project_id:
     - cctw
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-'0707g0vdathon ':
-  info_check: false
-  month: 7
-  title: '台灣零時政府 g0v.tw 雙月大黑客松 '
-  start: '2018-07-06T16:00:00.000Z'
-  end: ''
-  contributor_id: []
-  description: ' 零時政府黑客松由 g0v 揪松團舉辦，兩個月一次的單天活動，百名與會者來自不同的城市、背景、專長與年紀，利用三分鐘快速發表自己想做的事，並在現場尋找志同道合的夥伴，發揮各自所長，同時透過線上與線下協作的方式，用弄髒雙手的精神來「讓事情發生」。 沒有想法，我也可以貢獻嗎？ 可以！只要帶上你的腦袋與雙手，直接到活動現場找尋志同道合的提案吧！你也可以成為黑客松小幫手，先加入 g0v slack 線上聊天室的 #jothon 群組自我介紹，再到每次黑客松共筆的資訊列表看看是否還缺少什麼人力喔！'
-  cover: '/p/2018/g0v/0707g0vdathon.png '
-  link_tl1: 活動網站
-  link1: 'https://g0v-jothon.kktix.cc/events/g0v-hackath31n'
-  link_tl2: 共筆
-  link2: 'https://beta.hackfoldr.org/g0v-hackath31n/'
-  project_id:
-    - g0vdathon
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0711intl:
-  info_check: true
   month: 7
   title: 2018 美國公民科技之行回台分享會
-  start: '2018-07-10T16:00:00.000Z'
-  end: ''
+  start: 2018/07/10
+  end: null
   contributor_id:
     - lulukeng
     - ttcat
@@ -919,26 +657,25 @@
   link2: 'https://beta.hackfoldr.org/2018ocf-intl-visits/edit'
   project_id:
     - g0vsummit
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0810osln:
-  info_check: true
   month: 8
   title: OpenChain 開源管理 (3) - An Intelligent Way to Go
-  start: '2018-08-09T16:00:00.000Z'
-  end: ''
+  start: 2018/08/09
+  end: null
   contributor_id:
     - lucien
     - florence
@@ -948,33 +685,32 @@
   cover: /p/2018/osln/180810openchain.jpg
   link_tl1: 活動相關資訊
   link1: 'https://dmfli.kktix.cc/events/openchain3'
-  link_tl2: ''
-  link2: ''
+  link_tl2: null
+  link2: null
   project_id:
     - osln
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
   organizer_id:
     - osl
     - admin
     - openchin
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
 0811coscup:
-  info_check: true
   month: 8
   title: COSCUP x GNOME.Asia x openSUSE.Asia 2018
-  start: '2018-08-10T16:00:00.000Z'
-  end: '2018-08-11T16:00:00.000Z'
+  start: 2018/08/10
+  end: 2018/08/11
   contributor_id:
     - singing
     - huangfu
@@ -991,45 +727,17 @@
   link2: 'https://www.youtube.com/playlist?list=PLqfib4St70XOZt4e6XNiigzW9GI7iG-Iq'
   project_id:
     - coscup
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
-'':
-  info_check: false
-  month: ''
-  title: ''
-  start: ''
-  end: ''
-  contributor_id: []
-  description: ''
-  cover: ''
-  link_tl1: ''
-  link1: ''
-  link_tl2: ''
-  link2: ''
-  project_id: []
-  location: ''
-  attendance: ''
-  title_en: ''
-  label: ''
-  organizer_id: []
-  advisor_id: []
-  co-organizer_id: []
-  implementer_id: []
-  sponsor_id: []
-  coordinator_id: []
-  host_id: []
-  speaker_id: []
-  banner: ''
-  avatar: ''
+  location: null
+  attendance: null
+  title_en: null
+  label: null
+  organizer_id: null
+  advisor_id: null
+  co-organizer_id: null
+  implementer_id: null
+  sponsor_id: null
+  coordinator_id: null
+  host_id: null
+  speaker_id: null
+  banner: null
+  avatar: null
