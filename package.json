@@ -1,0 +1,11 @@
+{
+  "name": "ocf-activities",
+  "version": "0.1.0",
+  "description": "Convert OCF activities from Google Spreadsheet to YAML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrBoy <crboy@crboy.net>",
+  "license": "MIT"
+}
