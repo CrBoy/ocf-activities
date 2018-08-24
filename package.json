@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CrBoy <crboy@crboy.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "js-yaml": "^3.12.0"
+  }
 }
