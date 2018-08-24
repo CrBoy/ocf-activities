@@ -4,7 +4,10 @@ const yaml = require('js-yaml')
 
 const json_uri = process.env['JSON_URI'] || 'https://script.google.com/macros/s/AKfycbw0k4DJv039QNOLGGFpE7i_6nDul3wtZHQK_whJTvaWF7Awqd3F/exec'
 
-fs.mkdirSync('../dist')
+try {
+  fs.mkdirSync('../dist')
+} catch (e) {
+}
 
 fetch(json_uri)
   .then(res => res.json())

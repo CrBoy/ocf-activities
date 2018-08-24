@@ -4,6 +4,7 @@
   "description": "Convert OCF activities from Google Spreadsheet to YAML",
   "main": "index.js",
   "scripts": {
+    "build": "cd src; node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CrBoy <crboy@crboy.net>",
