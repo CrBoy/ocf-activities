@@ -9,6 +9,7 @@
   "author": "CrBoy <crboy@crboy.net>",
   "license": "MIT",
   "devDependencies": {
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^3.12.0",
+    "node-fetch": "^2.2.0"
   }
 }
