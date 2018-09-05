@@ -1,15 +1,21 @@
-var sheetName = '2017 活動紀錄'
+var sheetName = '2018 活動紀錄'
 
 function doGet (e) {
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet()
   var sheet = spreadsheet.getSheetByName(sheetName)
   var data = jsonifySheet(sheet)
 
-  data = data.reduce(function(acc, row){
+  data = data.filter(function(row){
+    return row.info_check
+  }).reduce(function(acc, row){
     acc[row.event_id] = row
-    delete row.event_id
+    delete row['event_id']
+    delete row['upload']
+    delete row['info_check']
     Object.keys(row).forEach(function(key){
+      if(!row[key]) row[key] = null
       if(key.match(/_id$/)) row[key] = semicolon_separated_list(row[key])
+      if(key === 'start' || key === 'end') row[key] = readableDate(row[key])
     })
     return acc
   }, {})
@@ -20,7 +26,13 @@ function doGet (e) {
 }
 
 function semicolon_separated_list(str){
+  if(!str) return str
   return str.split(';').filter(function(s){ return s }).map(function(s){ return s.trim() })
+}
+
+function readableDate(datetime) {
+  if(!datetime) return datetime
+  return Utilities.formatDate(datetime, "GMT", "yyyy/MM/dd")
 }
 
 function jsonifySheet(sheet) {
