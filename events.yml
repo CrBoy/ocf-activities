@@ -1,4 +1,5 @@
 '0103g0vdathon ':
+  '#REF!': true
   month: 1
   title: 在開源社群改造社會-2018 年 g0v 公民科技創新獎助金提案說明工作坊
   start: 2018/01/02
@@ -29,6 +30,7 @@
   banner: null
   avatar: null
 0113g0vdathon:
+  '#REF!': true
   month: 1
   title: g0v hackath28n | 台灣零時政府第貳拾捌次高牆功德黑客松
   start: 2018/01/12
@@ -57,6 +59,7 @@
   banner: null
   avatar: null
 0223cctw:
+  '#REF!': true
   month: 2
   title: '創用 CC 小聚 #1'
   start: 2018/02/22
@@ -92,6 +95,7 @@
   banner: null
   avatar: null
 0224python:
+  '#REF!': true
   month: 2
   title: '[高雄 Python 學院] Python 基礎及應用        '
   start: 2018/02/23
@@ -123,6 +127,7 @@
   banner: null
   avatar: null
 0226intl:
+  '#REF!': true
   month: 2
   title: 'NGO 的資安討論小聚 #6'
   start: 2018/02/25
@@ -164,6 +169,7 @@
   banner: null
   avatar: null
 0310sitcon:
+  '#REF!': true
   month: 3
   title: 學生計算機年會 SITCON 2018
   start: 2018/03/09
@@ -195,6 +201,7 @@
   banner: null
   avatar: null
 0317ocf:
+  '#REF!': true
   month: 3
   title: OCF 2018 烤山豬春酒聚
   start: 2018/03/16
@@ -244,6 +251,7 @@
   banner: null
   avatar: null
 0324python:
+  '#REF!': true
   month: 3
   title: '[高雄 Python 學院] Python 基礎及應用工作坊'
   start: 2018/03/23
@@ -279,6 +287,7 @@
   banner: null
   avatar: null
 0413cctw:
+  '#REF!': true
   month: 4
   title: 2018 CC Global Summit
   start: 2018/04/12
@@ -310,6 +319,7 @@
   banner: null
   avatar: null
 0424intl:
+  '#REF!': true
   month: 4
   title: 'NGO 的資安討論小聚 #7 - 我在臉書的個資怎麼了？'
   start: 2018/04/23
@@ -353,6 +363,7 @@
   banner: null
   avatar: null
 0505g0vdathon:
+  '#REF!': true
   month: 5
   title: 台灣零時政府 g0v.tw 雙月大黑客松
   start: 2018/05/04
@@ -383,6 +394,7 @@
   banner: null
   avatar: null
 0516rightscon:
+  '#REF!': true
   month: 5
   title: RightsCon Summit Series
   start: 2018/05/15
@@ -423,6 +435,7 @@
   banner: null
   avatar: null
 0601pycon:
+  '#REF!': true
   month: 6
   title: 2018 PyCon Taiwan
   start: 2018/05/31
@@ -457,6 +470,7 @@
   banner: null
   avatar: null
 0613clsi:
+  '#REF!': true
   month: 6
   title: Citizen Lab Summer Institute on Monitoring Internet Openness and Rights
   start: 2018/06/12
@@ -500,6 +514,7 @@
   banner: null
   avatar: null
 0626intl:
+  '#REF!': true
   month: 6
   title: East Asia Combating Disinformation Workshop
   start: 2018/06/25
@@ -548,6 +563,7 @@
   banner: null
   avatar: null
 0629intl:
+  '#REF!': true
   month: 6
   title: 2018 多倫多 RightsCon 數位人權大會分享會
   start: 2018/06/28
@@ -590,6 +606,7 @@
   banner: null
   avatar: null
 '0630cctw  ':
+  '#REF!': true
   month: 6
   title: CC TW Chapter 第一次會議
   start: 2018/06/29
@@ -638,6 +655,7 @@
   banner: null
   avatar: null
 0711intl:
+  '#REF!': true
   month: 7
   title: 2018 美國公民科技之行回台分享會
   start: 2018/07/10
@@ -672,6 +690,7 @@
   banner: null
   avatar: null
 0810osln:
+  '#REF!': true
   month: 8
   title: OpenChain 開源管理 (3) - An Intelligent Way to Go
   start: 2018/08/09
@@ -707,6 +726,7 @@
   banner: null
   avatar: null
 0811coscup:
+  '#REF!': true
   month: 8
   title: COSCUP x GNOME.Asia x openSUSE.Asia 2018
   start: 2018/08/10
