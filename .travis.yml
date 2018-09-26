@@ -20,3 +20,8 @@ deploy:
     branch:
       - master
       - deploy
+
+after_success:
+  - git clone https://$GITHUB_USER:$GITHUB_TOKEN@github.com/ocftw/v1.ocf.tw
+  - cp dist/events.yml v1.ocf.tw/_data/events/2018.yml
+  - cd v1.ocf.tw/ && git commit -am "Update events data automatically" && git push
