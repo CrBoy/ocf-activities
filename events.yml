@@ -2,7 +2,7 @@
   '#REF!': true
   month: 1
   title: 在開源社群改造社會-2018 年 g0v 公民科技創新獎助金提案說明工作坊
-  start: 2018/01/02
+  start: 2018/1/2
   end: null
   contributor_id: null
   description: >-
@@ -33,7 +33,7 @@
   '#REF!': true
   month: 1
   title: g0v hackath28n | 台灣零時政府第貳拾捌次高牆功德黑客松
-  start: 2018/01/12
+  start: 2018/1/12
   end: null
   contributor_id: null
   description: "台灣零時政府 g0v.tw\_雙月大黑客松: 不只寫程式改造社會，還要有菩薩心會許願蓋高牆做功德。不要問為什麼沒有人做功德，先承認你就是沒有人！來吧！來提新專案、來做舊專案、來認識新朋友！拓展開源、開幹、開花的公民行動精神。"
@@ -62,7 +62,7 @@
   '#REF!': true
   month: 2
   title: '創用 CC 小聚 #1'
-  start: 2018/02/22
+  start: 2018/2/22
   end: null
   contributor_id:
     - rock
@@ -98,7 +98,7 @@
   '#REF!': true
   month: 2
   title: '[高雄 Python 學院] Python 基礎及應用        '
-  start: 2018/02/23
+  start: 2018/2/23
   end: null
   contributor_id:
     - rock
@@ -130,7 +130,7 @@
   '#REF!': true
   month: 2
   title: 'NGO 的資安討論小聚 #6'
-  start: 2018/02/25
+  start: 2018/2/25
   end: null
   contributor_id:
     - pellaeon
@@ -172,7 +172,7 @@
   '#REF!': true
   month: 3
   title: 學生計算機年會 SITCON 2018
-  start: 2018/03/09
+  start: 2018/3/9
   end: null
   contributor_id:
     - huangfu
@@ -204,7 +204,7 @@
   '#REF!': true
   month: 3
   title: OCF 2018 烤山豬春酒聚
-  start: 2018/03/16
+  start: 2018/3/16
   end: null
   contributor_id:
     - singing
@@ -254,7 +254,7 @@
   '#REF!': true
   month: 3
   title: '[高雄 Python 學院] Python 基礎及應用工作坊'
-  start: 2018/03/23
+  start: 2018/3/23
   end: null
   contributor_id:
     - rock
@@ -290,8 +290,8 @@
   '#REF!': true
   month: 4
   title: 2018 CC Global Summit
-  start: 2018/04/12
-  end: 2018/04/14
+  start: 2018/4/12
+  end: 2018/4/14
   contributor_id:
     - lucien
     - 林懿萱
@@ -322,7 +322,7 @@
   '#REF!': true
   month: 4
   title: 'NGO 的資安討論小聚 #7 - 我在臉書的個資怎麼了？'
-  start: 2018/04/23
+  start: 2018/4/23
   end: null
   contributor_id:
     - pellaeon
@@ -366,7 +366,7 @@
   '#REF!': true
   month: 5
   title: 台灣零時政府 g0v.tw 雙月大黑客松
-  start: 2018/05/04
+  start: 2018/5/4
   end: null
   contributor_id: null
   description: >-
@@ -397,8 +397,8 @@
   '#REF!': true
   month: 5
   title: RightsCon Summit Series
-  start: 2018/05/15
-  end: 2018/05/17
+  start: 2018/5/15
+  end: 2018/5/17
   contributor_id:
     - pellaeon
     - lilin
@@ -438,8 +438,8 @@
   '#REF!': true
   month: 6
   title: 2018 PyCon Taiwan
-  start: 2018/05/31
-  end: 2018/06/01
+  start: 2018/5/31
+  end: 2018/6/1
   contributor_id:
     - rock
     - huangfu
@@ -473,8 +473,8 @@
   '#REF!': true
   month: 6
   title: Citizen Lab Summer Institute on Monitoring Internet Openness and Rights
-  start: 2018/06/12
-  end: 2018/06/14
+  start: 2018/6/12
+  end: 2018/6/14
   contributor_id:
     - pellaeon
   description: >-
@@ -517,8 +517,8 @@
   '#REF!': true
   month: 6
   title: East Asia Combating Disinformation Workshop
-  start: 2018/06/25
-  end: 2018/06/27
+  start: 2018/6/25
+  end: 2018/6/27
   contributor_id:
     - ttcat
     - lulu
@@ -566,7 +566,7 @@
   '#REF!': true
   month: 6
   title: 2018 多倫多 RightsCon 數位人權大會分享會
-  start: 2018/06/28
+  start: 2018/6/28
   end: null
   contributor_id:
     - pellaeon
@@ -609,7 +609,7 @@
   '#REF!': true
   month: 6
   title: CC TW Chapter 第一次會議
-  start: 2018/06/29
+  start: 2018/6/29
   end: null
   contributor_id:
     - rock
@@ -658,7 +658,7 @@
   '#REF!': true
   month: 7
   title: 2018 美國公民科技之行回台分享會
-  start: 2018/07/10
+  start: 2018/7/10
   end: null
   contributor_id:
     - lulukeng
@@ -693,7 +693,7 @@
   '#REF!': true
   month: 8
   title: OpenChain 開源管理 (3) - An Intelligent Way to Go
-  start: 2018/08/09
+  start: 2018/8/9
   end: null
   contributor_id:
     - lucien
@@ -729,8 +729,8 @@
   '#REF!': true
   month: 8
   title: COSCUP x GNOME.Asia x openSUSE.Asia 2018
-  start: 2018/08/10
-  end: 2018/08/11
+  start: 2018/8/10
+  end: 2018/8/11
   contributor_id:
     - singing
     - huangfu
